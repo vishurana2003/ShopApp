@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/vishurana2003/ShopApp.git/static/css/main.210141be.css",
-    "main.js": "/vishurana2003/ShopApp.git/static/js/main.80e37e3e.js",
+    "main.js": "/vishurana2003/ShopApp.git/static/js/main.54dcbe3a.js",
     "index.html": "/vishurana2003/ShopApp.git/index.html",
     "main.210141be.css.map": "/vishurana2003/ShopApp.git/static/css/main.210141be.css.map",
-    "main.80e37e3e.js.map": "/vishurana2003/ShopApp.git/static/js/main.80e37e3e.js.map"
+    "main.54dcbe3a.js.map": "/vishurana2003/ShopApp.git/static/js/main.54dcbe3a.js.map"
   },
   "entrypoints": [
     "static/css/main.210141be.css",
-    "static/js/main.80e37e3e.js"
+    "static/js/main.54dcbe3a.js"
   ]
 }
