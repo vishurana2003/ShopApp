@@ -11,7 +11,7 @@ import { Toaster } from "react-hot-toast";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
-    <BrowserRouter>
+    <BrowserRouter basename="https://github.com/vishurana2003/Weather-Project.git">
         <Provider store={store}>
           <App />   
           <Toaster/>  
